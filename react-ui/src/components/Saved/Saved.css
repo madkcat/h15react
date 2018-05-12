@@ -1,0 +1,10 @@
+.save-btn {
+  float: right;
+  color: white;
+  background-color: green;
+}
+
+.save-btn:hover {
+	color: #07073c;
+	background-color: #0ebf0e;
+}

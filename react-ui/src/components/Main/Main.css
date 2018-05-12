@@ -1,0 +1,68 @@
+h1, .main-header, .sub-header {
+	text-align: center;
+}
+
+button {
+	border-radius: 5px;
+}
+
+.outter {
+  width:100%;
+  text-align: center;
+}
+.inner {
+  display: inline-block;
+  margin: 5px;
+}
+
+.list-group {
+	margin: 0px;
+}
+
+.list-overflow-container {
+	margin: 0px;
+}
+
+.section-container {
+	margin-bottom: 10px;
+}
+
+.wrapper {
+	border: 1px solid black;
+	border-radius: 15px;
+	overflow: hidden;
+	background-color: white;
+}
+
+.input-header {
+	text-align: left;
+	margin-left: 20px;
+	line-height: 2px
+}
+
+.section-header {
+	line-height: 34px;
+	margin: 0px;
+	border-bottom: 2px solid black;
+	background-color: #00036d;
+	color: white;
+	font-size: 20px;
+}
+
+.main-header {
+	font-size: 35px;
+	color: black;
+	text-decoration: underline;
+}
+
+.main-container {
+	background-color: white;
+	padding: 8px;
+	border-radius: 10px;
+	margin: 2% 10% 2% 10%;
+}
+
+.sub-header {
+	font-size: 20px;
+	color: black;
+}

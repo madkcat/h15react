@@ -1,0 +1,22 @@
+.form-section {
+	margin-top: 25px;
+}
+
+.submit {
+	color: white;
+	background-color: #0f16c3;
+	float: center;
+}
+
+.submit:hover {
+	background-color: #5259f5;
+}
+
+.submit-button-container {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.input-fields {
+	padding: 1px 20px 10px 20px;
+}
